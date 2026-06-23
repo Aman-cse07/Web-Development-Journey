@@ -361,3 +361,13 @@ HTML tables help organize data in rows and columns.
 * `rowspan`
 
 Using semantic table elements creates cleaner, more accessible, and professional HTML code.
+
+---
+
+## 👨‍💻 Author
+
+## **Aman Kumar**
+
+B.Tech CSE (AI & ML)
+
+Web Development Learning Journey 🚀
