@@ -1,1 +1,12 @@
+h1{
+    color: aqua;
+}
 
+p{
+    color: darkmagenta;
+}
+
+button{
+    color: orangered;
+    background-color: yellow;
+}
