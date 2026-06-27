@@ -1,1 +1,18 @@
+* {
+    font-family: 'courier new';
+    
+}
 
+h1 {
+    color: #1b74e4;
+}
+
+.a {
+    color:black;
+    background-color: aqua;
+}
+
+#b {
+    color: white;
+    background-color: black;
+}
